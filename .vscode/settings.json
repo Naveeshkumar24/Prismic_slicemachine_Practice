@@ -1,0 +1,9 @@
+{
+    // Set Prettier as the default formatter for Svelte files
+    "[svelte]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    // Automatically format files on save
+    "editor.formatOnSave": true
+  }
+  

@@ -1,0 +1,72 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Videos they'll watch again. And again.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Use our cutting-edge AI models to take your videos from good to great.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"button_link": {
+				"key": "90fddeb3-deae-42df-be99-2a353326870f",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://google.com",
+					"text": "final"
+				}
+			},
+			"image": {
+				"__TYPE__": "ImageContent",
+				"provider": "imgix",
+				"url": "https://images.unsplash.com/photo-1582789760972-c8916cebe649?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxOHx8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzQyMTA2ODI5fDA&ixlib=rb-4.0.3&q=85",
+				"alt": "orange fruit in water with water",
+				"origin": {
+					"id": "uYM_PQJ8VvY",
+					"url": "https://images.unsplash.com/photo-1582789760972-c8916cebe649?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxOHx8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzQyMTA2ODI5fDA&ixlib=rb-4.0.3&q=85",
+					"width": 4380,
+					"height": 2901
+				},
+				"width": 4380,
+				"height": 2901,
+				"edit": {
+					"background": "transparent",
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"thumbnails": {}
+			},
+			"button_label": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "Download Now"
+			}
+		},
+		"items": []
+	}
+]
